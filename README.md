@@ -14,7 +14,7 @@
   <img align="center" alt="Iuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Iuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Iuri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Iuri-pic" height="150" style="border-radius:50px;" src="https://github.com/iuritorres/iuritorres/blob/main/me.jpg?width=676&height=676">
+  <img align="right" alt="Iuri-pic" height="150" style="border-radius:50px;" src="https://github.com/iuritorres/iuritorres/blob/main/me.jpg?width=510&height=510">
 </div>
 </div>
 
