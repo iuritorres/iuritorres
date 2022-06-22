@@ -1,7 +1,5 @@
 ## Bom diaa!! Eu sou o Iuri Torres, profissional Júnior de programação e tecnologia! 👋
 
-  ##
-
 <div align="justify" style="display: inline-block">
   <a href="https://github.com/iuritorres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuritorres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
