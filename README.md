@@ -1,4 +1,4 @@
-## Bom diaa!! Eu sou o Iuri Torres, profissional júnior de programação e tecnologia! 👋
+## Salvee!! Eu sou o Iuri Torres, Trabalho com Inbound Marketing e Programação! 👋
 
 <div align="center">
   <a href="https://github.com/iuritorres">
