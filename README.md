@@ -1,9 +1,9 @@
-## Salvee!! Eu sou o Iuri Torres, Trabalho com Inbound Marketing e Programação! 👋
+## Eu sou o Iuri Torres, Trabalho com Inbound Marketing e Programação! 👋
 
 <div align="center">
   <a href="https://github.com/iuritorres">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuritorres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuritorres&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=iuritorres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuritorres&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
