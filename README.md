@@ -1,4 +1,4 @@
-## Iuri Torres, Inbound Marketing e Programação! 👋
+## Iuri Torres, Inbound Marketing and Development! 👋
 
 <div align="center">
   <a href="https://github.com/iuritorres">
