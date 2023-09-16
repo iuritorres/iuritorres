@@ -1,4 +1,4 @@
-## Iuri Torres - Full Stack Mobile and Web Developer! 👋
+## Iuri Torres - Full Stack Developer! 👋
 
 <div align="center">
   <a href="https://github.com/iuritorres">
