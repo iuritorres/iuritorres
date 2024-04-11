@@ -1,4 +1,4 @@
-<img src="./github-header-image.png" alt="Header" width="100%"/>
+<img src="./github-header-image.png" alt="Header" width="50%"/>
 
 <div align="center">
   <a href="https://github.com/iuritorres">
