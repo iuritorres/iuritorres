@@ -1,4 +1,5 @@
-![Header](./github-header-image.png =250x)
+![Header](./github-header-image.png)
+<img src="./github-header-image.png" alt="Header" width="200"/>
 
 <div align="center">
   <a href="https://github.com/iuritorres">
