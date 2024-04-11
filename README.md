@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image.pn)
 
 <div align="center">
   <a href="https://github.com/iuritorres">
