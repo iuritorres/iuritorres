@@ -1,4 +1,4 @@
-<img src="./github-header-image.png" alt="Iuri Torres Profile Header" width="100%" />
+<img src="./github-header-image.png" alt="Iuri Torres Profile Header" width="10%" />
 
 <div align="center">
   <a href="https://github.com/iuritorres">
