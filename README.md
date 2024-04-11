@@ -10,6 +10,8 @@
 
 
 <div style="display: inline_block"><br>
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,sass,nodejs,tailwind,bootstrap,py,django,git,gitlab,github,githubactions,mysql,sqlite)](https://skillicons.dev)
+  
   <img align="center" alt="Iuri-Torres-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Iuri-Torres-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Iuri-Torres-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
