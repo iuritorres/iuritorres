@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image.png){ width: 1900px; }
 
 <div align="center">
   <a href="https://github.com/iuritorres">
