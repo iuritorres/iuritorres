@@ -1,5 +1,3 @@
-<img src="./github-header-image.png" alt="Iuri Torres Profile Header" width="100%" />
-
 <div align="center">
   <a href="https://github.com/iuritorres">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=iuritorres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
