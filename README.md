@@ -1,5 +1,3 @@
-<img  width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=478be6&height=120&section=header"/>
-
 <div align="center">
   <a href="https://github.com/iuritorres">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=iuritorres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,5 +21,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iuritorres/iuritorres/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iuritorres/iuritorres/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img  width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=478be6&height=120&section=footer"/>
