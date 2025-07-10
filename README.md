@@ -6,7 +6,7 @@
   
   ##
 
-[![My Skills](https://skillicons.dev/icons?i=linux,nextjs,react,nodejs,ts,java,spring,tailwind,sass,py,django,git,gitlab,github,bitbucket,githubactions,firebase,mysql,figma,webpack,wordpress,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,gcp,nextjs,react,nodejs,ts,java,spring,tailwind,sass,py,django,git,gitlab,github,bitbucket,githubactions,firebase,mysql,figma,webpack,wordpress,discordjs)](https://skillicons.dev)
 
   ##
 
